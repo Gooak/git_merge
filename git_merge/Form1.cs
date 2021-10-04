@@ -17,6 +17,7 @@ namespace git_merge
             InitializeComponent();
             textBox1.Text += "Hello World";
             textBox2.Text += "안녕!";
+            //해결
         }
     }
 }
