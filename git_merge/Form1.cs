@@ -15,7 +15,7 @@ namespace git_merge
         public Form1()
         {
             InitializeComponent();
-            textBox1.Text += "Hello World";
+            textBox1.Text += "Hello master";
         }
     }
 }
